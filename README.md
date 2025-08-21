@@ -1,2 +1,3 @@
 # template-repo
-A template repository for projects.
+
+A template GitHub repository for programming projects.
