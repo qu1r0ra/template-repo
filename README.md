@@ -3,13 +3,14 @@
 ![title](./assets/readme/title.jpg)
 
 <!-- Refer to https://shields.io/badges for usage -->
+
 ![Year, Term, Course](https://img.shields.io/badge/AY2526--T1-qu1r0ra-blue) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 A reusable GitHub repository template for programming projects.
 
 Includes a standardized folder structure, README layout, and common configurations to speed up project setup and maintain consistency.
 
-### Table of Contents <!-- omit from toc -->
+## Table of Contents <!-- omit from toc -->
 
 - [1. Overview](#1-overview)
   - [1.1. Topic 1](#11-topic-1)
